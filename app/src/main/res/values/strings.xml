@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Dummy</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="title_summoner">Invocateur</string>
+    <string name="title_match_list">Liste Matchs</string>
+    <string name="mastery">Maitrise %d</string>
+    <string name="tier_rank">%s %s</string>
+    <string name="unknown_queue_type">Unknown queue type</string>
+</resources>
