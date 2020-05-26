@@ -1,8 +1,8 @@
 package com.endive.dummy;
 
-import com.endive.dummy.model.championmastery.ChampionMastery;
-import com.endive.dummy.network.riot.RiotApi;
-import com.endive.dummy.network.riot.services.ChampionMasteryService;
+import com.endive.dummy.data.riot.models.lol.championmastery.ChampionMastery;
+import com.endive.dummy.data.riot.network.RiotApi;
+import com.endive.dummy.data.riot.network.services.lol.ChampionMasteryService;
 
 import org.junit.Test;
 

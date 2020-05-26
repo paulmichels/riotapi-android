@@ -1,9 +1,9 @@
 package com.endive.dummy;
 
-import com.endive.dummy.model.spectator.CurrentGameInfo;
-import com.endive.dummy.model.spectator.FeaturedGames;
-import com.endive.dummy.network.riot.RiotApi;
-import com.endive.dummy.network.riot.services.SpectatorService;
+import com.endive.dummy.data.riot.models.lol.spectator.CurrentGameInfo;
+import com.endive.dummy.data.riot.models.lol.spectator.FeaturedGames;
+import com.endive.dummy.data.riot.network.RiotApi;
+import com.endive.dummy.data.riot.network.services.lol.SpectatorService;
 
 import org.junit.Test;
 

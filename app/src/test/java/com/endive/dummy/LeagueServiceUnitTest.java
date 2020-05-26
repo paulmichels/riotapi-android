@@ -1,9 +1,9 @@
 package com.endive.dummy;
 
-import com.endive.dummy.model.league.LeagueEntry;
-import com.endive.dummy.model.league.LeagueList;
-import com.endive.dummy.network.riot.RiotApi;
-import com.endive.dummy.network.riot.services.LeagueService;
+import com.endive.dummy.data.riot.models.lol.league.LeagueEntry;
+import com.endive.dummy.data.riot.models.lol.league.LeagueList;
+import com.endive.dummy.data.riot.network.RiotApi;
+import com.endive.dummy.data.riot.network.services.lol.LeagueService;
 
 import org.junit.Test;
 
