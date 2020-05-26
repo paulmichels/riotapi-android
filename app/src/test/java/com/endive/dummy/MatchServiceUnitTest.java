@@ -1,10 +1,10 @@
 package com.endive.dummy;
 
-import com.endive.dummy.model.match.Match;
-import com.endive.dummy.model.match.MatchList;
-import com.endive.dummy.model.match.MatchTimeline;
-import com.endive.dummy.network.riot.RiotApi;
-import com.endive.dummy.network.riot.services.MatchService;
+import com.endive.dummy.data.riot.models.lol.match.Match;
+import com.endive.dummy.data.riot.models.lol.match.MatchList;
+import com.endive.dummy.data.riot.models.lol.match.MatchTimeline;
+import com.endive.dummy.data.riot.network.RiotApi;
+import com.endive.dummy.data.riot.network.services.lol.MatchService;
 
 import org.junit.Test;
 

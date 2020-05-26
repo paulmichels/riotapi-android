@@ -1,8 +1,8 @@
 package com.endive.dummy;
 
-import com.endive.dummy.model.summoner.Summoner;
-import com.endive.dummy.network.riot.RiotApi;
-import com.endive.dummy.network.riot.services.SummonerService;
+import com.endive.dummy.data.riot.models.lol.summoner.Summoner;
+import com.endive.dummy.data.riot.network.RiotApi;
+import com.endive.dummy.data.riot.network.services.lol.SummonerService;
 
 import org.junit.Test;
 

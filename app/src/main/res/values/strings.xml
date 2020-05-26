@@ -1,10 +1,15 @@
 <resources>
     <string name="app_name" translatable="false">Dummy</string>
+    <string name="add_summoner">Add summoner</string>
+    <string name="delete_the_summoner">Delete the summoner</string>
+    <string name="summoner_profile_icon">Summoner\'s profile icon</string>
+    <string name="summoner_profile_icon_frame">Summoner profile icon frame</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="enter_summoner_name">Enter summoner name</string>
     <string name="title_activity_home">HomeActivity</string>
-
-    <string name="title_summoner">Invocateur</string>
-    <string name="title_match_list">Liste Matchs</string>
-    <string name="mastery">Maitrise %d</string>
-    <string name="tier_rank">%s %s</string>
-    <string name="unknown_queue_type">Unknown queue type</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="extra_summoner_account_id" translatable="false">extra_summoner_account_id</string>
 </resources>
